@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Gurol Ayanlar <gurolayanlar@hotmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
     "through2": "^2.0.3"
