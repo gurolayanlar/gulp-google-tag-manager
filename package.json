@@ -1,6 +1,6 @@
 {
   "name": "gulp-google-tag-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inject Google Tag Manager (GTM) script into HTML <head> and <body> tags with Gulp.",
   "main": "index.js",
   "scripts": {
