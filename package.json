@@ -1,12 +1,20 @@
 {
   "name": "gulp-google-tag-manager",
   "version": "1.0.0",
-  "description": "",
+  "description": "Inject Google Tag Manager (GTM) script into HTML <head> and <body> tags with Gulp.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "gulp",
+    "google tag manager",
+    "gtm"
+  ],
+  "repository":{
+    "type" : "git",
+    "url" : "https://github.com/gurolayanlar/gulp-google-tag-manager"
+  },
   "author": "Gurol Ayanlar <gurolayanlar@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
